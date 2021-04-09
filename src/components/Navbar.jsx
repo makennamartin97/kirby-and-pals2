@@ -10,7 +10,7 @@ class Navbar extends Component {
     return (
       <div>
         <nav className="navbar navbar-expand-lg navbar-light fixed-top" style={{opacity: '90%', backgroundColor: "#89C7E7"}}>
-            <a className="navbar-brand " href="/kirby-and-pals/" style={{color: "white"}}>Kirby & Pals</a>
+            <a className="navbar-brand " href="/kirby-and-pals2/" style={{color: "white"}}>Kirby & Pals</a>
             <img src={bone} alt="bone" style={{width: "28px", height: "28px", marginRight: "14px"}}/>
             <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
                 <span className="navbar-toggler-icon"></span>
