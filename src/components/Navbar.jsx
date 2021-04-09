@@ -19,16 +19,16 @@ class Navbar extends Component {
                 <ul className="navbar-nav ml-auto" >
 
                     <li className="nav-item ">
-                    <a className="nav-link " style={{color: "white"}} href="/kirby-and-pals/#about">About</a>
+                    <a className="nav-link " style={{color: "white"}} href="/kirby-and-pals2/#about">About</a>
                     </li>
                     <li className="nav-item" >
-                        <a className="nav-link " style={{color: "white"}} href="/kirby-and-pals/#reviews">Reviews</a>
+                        <a className="nav-link " style={{color: "white"}} href="/kirby-and-pals2/#reviews">Reviews</a>
                     </li>
                     <li className="nav-item" >
-                        <a className="nav-link "  style={{color: "white"}} href="/kirby-and-pals/#pricing">Pricing</a>
+                        <a className="nav-link "  style={{color: "white"}} href="/kirby-and-pals2/#pricing">Pricing</a>
                     </li>
                     <li className="nav-item">
-                        <a className="nav-link " style={{color: "white"}} href="/kirby-and-pals/#contact">Contact</a>
+                        <a className="nav-link " style={{color: "white"}} href="/kirby-and-pals2/#contact">Contact</a>
                     </li>
                 </ul>
 
