@@ -6,7 +6,7 @@ class Section5 extends Component {
     function sendEmail(e) {
         e.preventDefault();
 
-        emailjs.sendForm('service_d14dvrw', 'template_dvb6kym', e.target, 'user_aosIPpcQcPUj7hZW5sFJ9')
+        emailjs.sendForm('service_d14dvrw', 'template_k22qqlc', e.target, 'user_uaF8ZXhxd5iqTnX2DF1w2')
         .then((result) => {
           console.log(result.text);
         }, (error) => {

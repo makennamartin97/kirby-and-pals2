@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/kirby-and-pals2/static/css/main.faa34a1d.chunk.css",
-    "main.js": "/kirby-and-pals2/static/js/main.a0586d2a.chunk.js",
-    "main.js.map": "/kirby-and-pals2/static/js/main.a0586d2a.chunk.js.map",
+    "main.css": "/kirby-and-pals2/static/css/main.147a8909.chunk.css",
+    "main.js": "/kirby-and-pals2/static/js/main.8b032d86.chunk.js",
+    "main.js.map": "/kirby-and-pals2/static/js/main.8b032d86.chunk.js.map",
     "runtime-main.js": "/kirby-and-pals2/static/js/runtime-main.43132f4a.js",
     "runtime-main.js.map": "/kirby-and-pals2/static/js/runtime-main.43132f4a.js.map",
     "static/css/2.ae9f1eb3.chunk.css": "/kirby-and-pals2/static/css/2.ae9f1eb3.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.4afaac86.chunk.js.map": "/kirby-and-pals2/static/js/3.4afaac86.chunk.js.map",
     "index.html": "/kirby-and-pals2/index.html",
     "static/css/2.ae9f1eb3.chunk.css.map": "/kirby-and-pals2/static/css/2.ae9f1eb3.chunk.css.map",
-    "static/css/main.faa34a1d.chunk.css.map": "/kirby-and-pals2/static/css/main.faa34a1d.chunk.css.map",
+    "static/css/main.147a8909.chunk.css.map": "/kirby-and-pals2/static/css/main.147a8909.chunk.css.map",
     "static/js/2.e814ca13.chunk.js.LICENSE.txt": "/kirby-and-pals2/static/js/2.e814ca13.chunk.js.LICENSE.txt",
     "static/media/bone.869bde09.png": "/kirby-and-pals2/static/media/bone.869bde09.png",
     "static/media/dog1.fdae8885.jpg": "/kirby-and-pals2/static/media/dog1.fdae8885.jpg",
@@ -26,7 +26,7 @@
     "static/js/runtime-main.43132f4a.js",
     "static/css/2.ae9f1eb3.chunk.css",
     "static/js/2.e814ca13.chunk.js",
-    "static/css/main.faa34a1d.chunk.css",
-    "static/js/main.a0586d2a.chunk.js"
+    "static/css/main.147a8909.chunk.css",
+    "static/js/main.8b032d86.chunk.js"
   ]
 }
