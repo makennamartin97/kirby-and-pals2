@@ -1,0 +1,311 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.sec1 {
+  height: 121vh;
+  width: 100vw;
+  background-image: url('dog3.JPG');
+  background-position: 0 42%;
+  background-size: cover;
+
+
+
+}
+.sec1 h4{
+  font-weight: bolder;
+}
+.name{
+  top: 21%;
+  transform: translateY(-50%);
+  font-family: 'Yusei Magic';
+  width:100%;
+  position: absolute;
+  color:#89C7E7;
+  z-index: 100;
+
+}
+.moving-letters {
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  margin: auto;
+  height: 200px;
+}
+
+.sec2 {
+  height: 110vh;
+  width: 100vw;
+  background-color: #fdfd96;
+}
+.content p{
+  font-weight: 500;
+  line-height: 2.5;
+}
+.content{
+  padding-right: 28px!important;
+}
+
+.sec3{
+  height: 125vh;
+  width: 100vw;
+  background-color: white;
+}
+
+.sec4{
+  height: 105vh;
+  width: 100vw;
+  background-color: #fdfd96;
+}
+.sec4 h4{
+  font-size: 14px;
+}
+.details{
+  display: inline-block; 
+  text-align: left;
+}
+.sec5{
+  height: 100vh;
+  width: 100vw;
+  background-color: white;
+}
+.sec6 {
+  height: 10vh;
+  width: 100vw;
+  background-color: #fdfd96;
+  border: 5px dotted #89C7E7;
+
+}
+
+
+.footer .creds{
+  font-size: xx-small;
+}
+.footer .cred2 {
+  font-size: small;
+}
+.nav-item{
+  text-align: left;
+}
+#r-content {
+  padding: 5% 5% 2% 5%
+}
+#r-content h2, h5 {
+  font-family: 'Yusei Magic', sans-serif;
+  color: #89C7E7;
+  font-weight: 550;
+  font-size: 32px;
+  text-align: center;
+  line-height: 28px;
+}
+#socials{
+  
+  text-align: center;
+  
+  padding: 1% 1% 3% 1%;
+}
+#socials h2{
+  font-size: 20px;
+  line-height: 28px;
+  font-family: 'Recursive', sans-serif;
+  color: #89C7E7;
+}
+.details {
+  padding: 10px 10px 4px 10px;
+  background-color: white;
+  border: 5px dotted #89C7E7;
+}
+.details h4{
+  font-family: 'Recursive', sans-serif;
+}
+#dog{
+  border-radius: 5%;
+  transform: rotate(4.5deg);
+  border: 7px solid white;
+  height: 350px;
+  width: 300px;
+
+}
+#dogs{
+  border-radius: 5%;
+  transform: rotate(-4.5deg);
+  border: 7px solid white;
+  height: 285px;
+  width: 310px;
+
+}
+#doggo{
+  height: 390px;
+  width: 350px;
+  border: 10px dotted #fdfd96;
+  border-radius: 5%;
+  margin: 2%;
+  transform: rotate(4.5deg);
+
+}
+.nopadding {
+  padding: 0 !important;
+  margin: 0 !important;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+
+}
+.creds a{
+  font-size: 7px;
+}
+thead{
+  background-color: #89C7E7;
+  opacity: 90%;
+}
+
+
+
+
+@media only screen and (max-width: 800px){
+  .sec5{
+    height: 100vh;
+  }
+  #r-content{
+    padding-top: 12%;
+  }
+  .name{
+    top: 21%;
+    color: white;
+  }
+  .sec1 {
+
+    background-position: center;
+    background-size: cover;
+  
+  
+  
+  }
+  .content{
+    padding-right: 15px!important;
+    padding-left: 15px!important;
+  }
+  .creds a{
+    font-size: 9px;
+  }
+  #dogs{
+
+    display: none;
+  
+  }
+  #doggo{
+    height: 290px;
+    width: 250px;
+    border: 10px dotted #fdfd96;
+    border-radius: 5%;
+    margin: 5%;
+    transform: rotate(4.5deg);
+  
+  }
+  
+}
+
+@media only screen and (max-width: 500px){
+  .name{
+    top: 25%;
+    color: white;
+  }
+  .sec1 {
+    height: 100vh;
+  }
+  .sec2 {
+    height: 100vh;
+  }
+  #r-content{
+    padding: 14% 14% 5% 14%;
+  }
+  #r-content h2{
+    margin-top: 12px;
+    font-size: 26px;
+  }
+  #r-content h3 {
+    font-size: medium;
+  }
+  .creds {
+    margin-left: 70px;
+    display: inline !important;
+    font-size: xx-small;
+  }
+  .sec4 {
+    height: 118vh;
+  }
+  #socials h2{
+    font-size: 19px;
+  }
+  .sec6{
+    height: 9vh;
+  }
+  .sec5{
+    height: 100vh;
+  }
+  #dog{
+    height: 220px;
+    width: 170px;
+    
+  }
+
+
+
+ .content{
+   padding: 10%;
+ }
+ .content p {
+  line-height: 1.3;
+  font-size: 16px;
+ }
+ .sec1{
+  background-position: 0% 0% 0% 80%;
+  
+  }
+  #r-content h5{
+    font-size:smaller;
+  }
+  .col-8{
+    padding-left: 0!important;
+    padding-right: 0!important;
+  }
+
+}
+
+
