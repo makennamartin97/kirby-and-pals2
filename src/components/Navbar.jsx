@@ -10,7 +10,7 @@ class Navbar extends Component {
     return (
       <div>
         <nav className="navbar navbar-expand-lg navbar-light fixed-top" style={{opacity: '90%', backgroundColor: "#89C7E7"}}>
-            <a className="navbar-brand " href="/kirby-and-pals2/" style={{color: "white"}}>Kirby & Pals</a>
+            <a className="navbar-brand " href="/" style={{color: "white"}}>Kirby & Pals</a>
             <img src={bone} alt="bone" style={{width: "28px", height: "28px", marginRight: "14px"}}/>
             <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
                 <span className="navbar-toggler-icon"></span>
@@ -19,16 +19,16 @@ class Navbar extends Component {
                 <ul className="navbar-nav ml-auto" >
 
                     <li className="nav-item ">
-                    <a className="nav-link " style={{color: "white"}} href="/kirby-and-pals2/#about">About</a>
+                    <a className="nav-link " style={{color: "white"}} href="/#about">About</a>
                     </li>
                     <li className="nav-item" >
-                        <a className="nav-link " style={{color: "white"}} href="/kirby-and-pals2/#reviews">Reviews</a>
+                        <a className="nav-link " style={{color: "white"}} href="/#reviews">Reviews</a>
                     </li>
                     <li className="nav-item" >
-                        <a className="nav-link "  style={{color: "white"}} href="/kirby-and-pals2/#pricing">Pricing</a>
+                        <a className="nav-link "  style={{color: "white"}} href="/#pricing">Pricing</a>
                     </li>
                     <li className="nav-item">
-                        <a className="nav-link " style={{color: "white"}} href="/kirby-and-pals2/#contact">Contact</a>
+                        <a className="nav-link " style={{color: "white"}} href="/#contact">Contact</a>
                     </li>
                 </ul>
 

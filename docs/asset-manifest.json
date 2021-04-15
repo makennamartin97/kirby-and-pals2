@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/kirby-and-pals2/static/css/main.934c48a7.chunk.css",
-    "main.js": "/kirby-and-pals2/static/js/main.8b032d86.chunk.js",
-    "main.js.map": "/kirby-and-pals2/static/js/main.8b032d86.chunk.js.map",
+    "main.js": "/kirby-and-pals2/static/js/main.c2d2c981.chunk.js",
+    "main.js.map": "/kirby-and-pals2/static/js/main.c2d2c981.chunk.js.map",
     "runtime-main.js": "/kirby-and-pals2/static/js/runtime-main.43132f4a.js",
     "runtime-main.js.map": "/kirby-and-pals2/static/js/runtime-main.43132f4a.js.map",
     "static/css/2.ae9f1eb3.chunk.css": "/kirby-and-pals2/static/css/2.ae9f1eb3.chunk.css",
@@ -27,6 +27,6 @@
     "static/css/2.ae9f1eb3.chunk.css",
     "static/js/2.e814ca13.chunk.js",
     "static/css/main.934c48a7.chunk.css",
-    "static/js/main.8b032d86.chunk.js"
+    "static/js/main.c2d2c981.chunk.js"
   ]
 }
