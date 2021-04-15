@@ -1,35 +1,32 @@
 {
   "files": {
     "main.css": "/kirby-and-pals2/static/css/main.934c48a7.chunk.css",
-    "main.js": "/kirby-and-pals2/static/js/main.1525f7b5.chunk.js",
-    "main.js.map": "/kirby-and-pals2/static/js/main.1525f7b5.chunk.js.map",
+    "main.js": "/kirby-and-pals2/static/js/main.8b032d86.chunk.js",
+    "main.js.map": "/kirby-and-pals2/static/js/main.8b032d86.chunk.js.map",
     "runtime-main.js": "/kirby-and-pals2/static/js/runtime-main.43132f4a.js",
     "runtime-main.js.map": "/kirby-and-pals2/static/js/runtime-main.43132f4a.js.map",
     "static/css/2.ae9f1eb3.chunk.css": "/kirby-and-pals2/static/css/2.ae9f1eb3.chunk.css",
-    "static/js/2.9855444a.chunk.js": "/kirby-and-pals2/static/js/2.9855444a.chunk.js",
-    "static/js/2.9855444a.chunk.js.map": "/kirby-and-pals2/static/js/2.9855444a.chunk.js.map",
+    "static/js/2.e814ca13.chunk.js": "/kirby-and-pals2/static/js/2.e814ca13.chunk.js",
+    "static/js/2.e814ca13.chunk.js.map": "/kirby-and-pals2/static/js/2.e814ca13.chunk.js.map",
     "static/js/3.4afaac86.chunk.js": "/kirby-and-pals2/static/js/3.4afaac86.chunk.js",
     "static/js/3.4afaac86.chunk.js.map": "/kirby-and-pals2/static/js/3.4afaac86.chunk.js.map",
     "index.html": "/kirby-and-pals2/index.html",
     "static/css/2.ae9f1eb3.chunk.css.map": "/kirby-and-pals2/static/css/2.ae9f1eb3.chunk.css.map",
     "static/css/main.934c48a7.chunk.css.map": "/kirby-and-pals2/static/css/main.934c48a7.chunk.css.map",
-    "static/js/2.9855444a.chunk.js.LICENSE.txt": "/kirby-and-pals2/static/js/2.9855444a.chunk.js.LICENSE.txt",
+    "static/js/2.e814ca13.chunk.js.LICENSE.txt": "/kirby-and-pals2/static/js/2.e814ca13.chunk.js.LICENSE.txt",
     "static/media/bone.869bde09.png": "/kirby-and-pals2/static/media/bone.869bde09.png",
-    "static/media/challa.beeea27e.png": "/kirby-and-pals2/static/media/challa.beeea27e.png",
     "static/media/dog1.fdae8885.jpg": "/kirby-and-pals2/static/media/dog1.fdae8885.jpg",
     "static/media/App.css": "/kirby-and-pals2/static/media/dog3.a583a28b.JPG",
     "static/media/finalig.1311da61.png": "/kirby-and-pals2/static/media/finalig.1311da61.png",
-    "static/media/mickey.4715068a.png": "/kirby-and-pals2/static/media/mickey.4715068a.png",
     "static/media/print.443a0c8a.png": "/kirby-and-pals2/static/media/print.443a0c8a.png",
-    "static/media/rory.f9ef5b63.png": "/kirby-and-pals2/static/media/rory.f9ef5b63.png",
     "static/media/twodogs.449fe5ee.jpeg": "/kirby-and-pals2/static/media/twodogs.449fe5ee.jpeg",
     "static/media/yard.ec2717a5.png": "/kirby-and-pals2/static/media/yard.ec2717a5.png"
   },
   "entrypoints": [
     "static/js/runtime-main.43132f4a.js",
     "static/css/2.ae9f1eb3.chunk.css",
-    "static/js/2.9855444a.chunk.js",
+    "static/js/2.e814ca13.chunk.js",
     "static/css/main.934c48a7.chunk.css",
-    "static/js/main.1525f7b5.chunk.js"
+    "static/js/main.8b032d86.chunk.js"
   ]
 }
