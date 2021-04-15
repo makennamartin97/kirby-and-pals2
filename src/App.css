@@ -152,8 +152,8 @@
   background-color: white;
   border: 5px dotted #89C7E7;
 }
-.details h4{
-  font-family: 'Recursive', sans-serif;
+.details p{
+  margin-bottom: .5rem!important;
 }
 #dog{
   border-radius: 5%;
@@ -189,6 +189,9 @@
 }
 .creds a{
   font-size: 7px;
+}
+table{
+  text-align: left!important;
 }
 thead{
   background-color: #89C7E7;

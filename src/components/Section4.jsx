@@ -9,12 +9,13 @@ class Section4 extends Component {
             <div id="r-content">
                 <h2>Pricing<img src={paw} style={{height: '60px', width: '60px', padding: '15px',marginBottom:'10px'}}/></h2>
                 <div className="details">
-                  <h4>small dogs(Sm): less than 30lbs</h4>
-                  <h4>large dogs(Lg): 30lbs and up</h4>
-                  <h4>* Trimmings not available</h4>
+                  <p>Small dogs(Sm): &lt; 30lbs</p>
+                  <p>Large dogs(Lg): 30lbs+</p>
+                  <p>* Trimmings not available</p>
                 </div>
             </div>
-            <table className="table table-bordered">
+            <div className="table-responsive">
+            <table className="table table-bordered table-hover">
             <thead>
               <tr>
                 <th scope="col">Service</th>
@@ -49,6 +50,7 @@ class Section4 extends Component {
               
             </tbody>
           </table>
+          </div>
           
               
         </div>
