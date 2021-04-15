@@ -194,6 +194,10 @@ thead{
   background-color: #89C7E7;
   opacity: 90%;
 }
+.card-img-top{
+  height: 200px;
+  width: 100px;
+}
 
 
 
