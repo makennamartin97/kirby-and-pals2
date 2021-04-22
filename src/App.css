@@ -127,13 +127,16 @@
 #r-content {
   padding: 5% 5% 2% 5%
 }
-#r-content h2, h5 {
+#r-content h2 {
   font-family: 'Yusei Magic', sans-serif;
   color: #89C7E7;
   font-weight: 550;
   font-size: 32px;
   text-align: center;
   line-height: 28px;
+}
+#r-content h5{
+  font-weight: 400;
 }
 #socials{
   
@@ -201,14 +204,17 @@ thead{
   height: 200px;
   width: 100px;
 }
+.nav-item a:hover { 
+  color: #fdfd96 !important; 
+  border: 1px dotted #fdfd96;
 
+  
+}
 
 
 
 @media only screen and (max-width: 800px){
-  .sec5{
-    height: 100vh;
-  }
+  
   #r-content{
     padding-top: 12%;
   }
@@ -223,6 +229,9 @@ thead{
   
   
   
+  }
+  .sec5{
+    height: 110vh;
   }
   .content{
     padding-right: 15px!important;
@@ -275,7 +284,11 @@ thead{
     font-size: xx-small;
   }
   .sec4 {
-    height: 100vh;
+    height: 108vh;
+  }
+  .sec5{
+    height: 115vh!important;
+
   }
   #socials h2{
     font-size: 19px;
@@ -283,9 +296,7 @@ thead{
   .sec6{
     height: 9vh;
   }
-  .sec5{
-    height: 100vh;
-  }
+
   #dog{
     height: 220px;
     width: 170px;
@@ -299,7 +310,7 @@ thead{
  }
  .content p {
   line-height: 1.3;
-  font-size: 16px;
+  font-size: 12px;
  }
  .sec1{
   background-position: 0% 0% 0% 80%;
@@ -307,10 +318,14 @@ thead{
   }
   #r-content h5{
     font-size:smaller;
+    
   }
   .col-8{
     padding-left: 0!important;
     padding-right: 0!important;
+  }
+  .details p{
+    font-size: 12px;
   }
 
 }

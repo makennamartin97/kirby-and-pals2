@@ -25,11 +25,7 @@ class Section4 extends Component {
             <tbody>
               <tr>
                 <th scope="row">Walk</th>
-                <td>$18/30min $30/hr</td>
-              </tr>
-              <tr>
-                <th scope="row">Full Grooming Services</th>
-                <td>Sm: $50 Lg: $60</td>
+                <td>10$/15min 15$/20min </td>
               </tr>
               <tr>
                 <th scope="row">Brushing</th>
