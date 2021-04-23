@@ -168,9 +168,7 @@
 th {
   color:black;
 }
-thead{
-  background-color: #89C7E7;
-}
+
 #dogs{
   border-radius: 5%;
   transform: rotate(-4.5deg);
@@ -203,7 +201,7 @@ table{
 }
 thead{
   background-color: #89C7E7;
-  opacity: 90%;
+
 }
 .card-img-top{
   height: 200px;
