@@ -25,7 +25,7 @@ class Section4 extends Component {
             <tbody>
               <tr>
                 <th scope="row">Walk</th>
-                <td>10$/15min 15$/20min 36$/1hr</td>
+                <td>10$/15min 15$/20min 18$/30min 36$/1hr</td>
               </tr>
               <tr>
                 <th scope="row">Brushing</th>
