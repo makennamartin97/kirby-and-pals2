@@ -239,11 +239,7 @@ thead{
   .creds a{
     font-size: 9px;
   }
-  #dogs{
-
-    display: none;
   
-  }
   #doggo{
     height: 290px;
     width: 250px;
@@ -301,6 +297,10 @@ thead{
     width: 170px;
     
   }
+  #dogs{
+    display: none;
+    
+  }
 
 
 
@@ -326,6 +326,7 @@ thead{
   .details p{
     font-size: 12px;
   }
+
 
 }
 
