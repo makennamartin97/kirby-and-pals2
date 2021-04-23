@@ -76,7 +76,6 @@
   background-color: #fdfd96;
 }
 .content p{
-  font-weight: 500;
   line-height: 2.5;
 }
 .content{
@@ -309,8 +308,8 @@ thead{
    padding: 10%;
  }
  .content p {
-  line-height: 1.3;
-  font-size: 12px;
+  line-height: 1.6;
+  font-size: 11px;
  }
  .sec1{
   background-position: 0% 0% 0% 80%;
